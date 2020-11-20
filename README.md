@@ -1,6 +1,6 @@
-# Login Credential
-username: user
-password: user1234
+# Login Credentials
+### username: user
+### password: user1234
 
 # Getting Started with Create React App
 
